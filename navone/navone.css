@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 10px 0;
+    background-color: bisque;
+    
+}
+
+.container{
+    margin: 10px 0;
+    border: 1px solid black;
+    
+}
+
+ul{
+    list-style-type: none;
+}
